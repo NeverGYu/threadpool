@@ -1,0 +1,3 @@
+/home/gch/ThreadPool/build/CMakeFiles/myThreadPool.dir
+/home/gch/ThreadPool/build/CMakeFiles/edit_cache.dir
+/home/gch/ThreadPool/build/CMakeFiles/rebuild_cache.dir

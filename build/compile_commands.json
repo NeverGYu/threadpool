@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/gch/ThreadPool/build",
+  "command": "/usr/bin/g++ -DmyThreadPool_EXPORTS   -g -std=c++20 -g -fPIC -o CMakeFiles/myThreadPool.dir/test.cc.o -c /home/gch/ThreadPool/test.cc",
+  "file": "/home/gch/ThreadPool/test.cc"
+},
+{
+  "directory": "/home/gch/ThreadPool/build",
+  "command": "/usr/bin/g++ -DmyThreadPool_EXPORTS   -g -std=c++20 -g -fPIC -o CMakeFiles/myThreadPool.dir/threadpool.cc.o -c /home/gch/ThreadPool/threadpool.cc",
+  "file": "/home/gch/ThreadPool/threadpool.cc"
+}
+]
